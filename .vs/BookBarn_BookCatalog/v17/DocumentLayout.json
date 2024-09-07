@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04AD7A00-43A0-44BA-9CAD-F2C23157F920}|BookBarn_API_Layer\\BookBarn_API_Layer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_api_layer\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AD7A00-43A0-44BA-9CAD-F2C23157F920}|BookBarn_API_Layer\\BookBarn_API_Layer.csproj|solutionrelative:bookbarn_api_layer\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38215582-F1F0-4792-B8F6-24B11ABFA465}|BookBarn_DataLayer\\BookBarn_DataLayer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_datalayer\\respositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38215582-F1F0-4792-B8F6-24B11ABFA465}|BookBarn_DataLayer\\BookBarn_DataLayer.csproj|solutionrelative:bookbarn_datalayer\\respositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38215582-F1F0-4792-B8F6-24B11ABFA465}|BookBarn_DataLayer\\BookBarn_DataLayer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_datalayer\\respositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38215582-F1F0-4792-B8F6-24B11ABFA465}|BookBarn_DataLayer\\BookBarn_DataLayer.csproj|solutionrelative:bookbarn_datalayer\\respositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72581F7-D7EC-4C31-9F25-495883CC660C}|BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_domainlayer\\respositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72581F7-D7EC-4C31-9F25-495883CC660C}|BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj|solutionrelative:bookbarn_domainlayer\\respositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72581F7-D7EC-4C31-9F25-495883CC660C}|BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_domainlayer\\respositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72581F7-D7EC-4C31-9F25-495883CC660C}|BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj|solutionrelative:bookbarn_domainlayer\\respositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AD7A00-43A0-44BA-9CAD-F2C23157F920}|BookBarn_API_Layer\\BookBarn_API_Layer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_api_layer\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AD7A00-43A0-44BA-9CAD-F2C23157F920}|BookBarn_API_Layer\\BookBarn_API_Layer.csproj|solutionrelative:bookbarn_api_layer\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AD7A00-43A0-44BA-9CAD-F2C23157F920}|BookBarn_API_Layer\\BookBarn_API_Layer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_api_layer\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AD7A00-43A0-44BA-9CAD-F2C23157F920}|BookBarn_API_Layer\\BookBarn_API_Layer.csproj|solutionrelative:bookbarn_api_layer\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/BookBarnCatalog/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72581F7-D7EC-4C31-9F25-495883CC660C}|BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_domainlayer\\respositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72581F7-D7EC-4C31-9F25-495883CC660C}|BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj|solutionrelative:bookbarn_domainlayer\\respositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38215582-F1F0-4792-B8F6-24B11ABFA465}|BookBarn_DataLayer\\BookBarn_DataLayer.csproj|c:\\users\\megha\\documents\\projects\\bookbarn_bookcatalog\\bookbarn_datalayer\\respositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38215582-F1F0-4792-B8F6-24B11ABFA465}|BookBarn_DataLayer\\BookBarn_DataLayer.csproj|solutionrelative:bookbarn_datalayer\\respositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\Respositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "BookBarn_DomainLayer\\Respositories\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\Respositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "BookBarn_DomainLayer\\Respositories\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:32:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_API_Layer\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "BookBarn_API_Layer\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_API_Layer\\Services\\BookServices.cs",
+              "RelativeToolTip": "BookBarn_API_Layer\\Services\\BookServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwFYBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T08:05:05.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_API_Layer\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BookBarn_API_Layer\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_API_Layer\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "BookBarn_API_Layer\\DTOs\\BookDTO.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:06:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_API_Layer\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookBarn_API_Layer\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_API_Layer\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookBarn_API_Layer\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:59:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DataLayer\\Respositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "BookBarn_DataLayer\\Respositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DataLayer\\Respositories\\AuthorRepository.cs",
+              "RelativeToolTip": "BookBarn_DataLayer\\Respositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:56:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DataLayer\\Respositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookBarn_DataLayer\\Respositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DataLayer\\Respositories\\CategoryRepository.cs",
+              "RelativeToolTip": "BookBarn_DataLayer\\Respositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwHIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:04:24.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\Respositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookBarn_DomainLayer\\Respositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\Respositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "BookBarn_DomainLayer\\Respositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:37:31.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/BookBarnCatalog/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-07T18:22:32.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DataLayer\\Respositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookBarn_DataLayer\\Respositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DataLayer\\Respositories\\BookRepository.cs",
+              "RelativeToolTip": "BookBarn_DataLayer\\Respositories\\BookRepository.cs",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAEwKYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:09:00.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\Respositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookBarn_DomainLayer\\Respositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\Respositories\\IBookRepository.cs",
+              "RelativeToolTip": "BookBarn_DomainLayer\\Respositories\\IBookRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T05:47:24.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

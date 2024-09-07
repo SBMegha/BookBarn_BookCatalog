@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookBarn_API_Layer.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\bin\Debug\net8.0\BookBarn_DataLayer.deps.json
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\bin\Debug\net8.0\BookBarn_DataLayer.runtimeconfig.json
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\bin\Debug\net8.0\BookBarn_DataLayer.dll
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\bin\Debug\net8.0\BookBarn_DataLayer.pdb
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\bin\Debug\net8.0\BookBarn_DomainLayer.dll
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\bin\Debug\net8.0\BookBarn_DomainLayer.pdb
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.csproj.AssemblyReference.cache
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.AssemblyInfoInputs.cache
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.AssemblyInfo.cs
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn.48CB3D41.Up2Date
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.dll
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\refint\BookBarn_DataLayer.dll
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.pdb
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.genruntimeconfig.cache
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\ref\BookBarn_DataLayer.dll

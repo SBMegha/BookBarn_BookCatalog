@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qwiH47WGlFSN4/D7aad+r5oV3ajKSjI4Mo8GEEfio10=",
+  "Source": "BookBarn_API_Layer",
+  "BasePath": "_content/BookBarn_API_Layer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

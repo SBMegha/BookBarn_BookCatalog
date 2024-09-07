@@ -1,0 +1,6 @@
+@BookBarn_API_Layer_HostAddress = http://localhost:5127
+
+GET {{BookBarn_API_Layer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
