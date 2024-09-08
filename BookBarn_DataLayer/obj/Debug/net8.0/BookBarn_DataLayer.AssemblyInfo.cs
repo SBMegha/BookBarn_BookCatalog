@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookBarn_DataLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8123b8abfe7f1ceb91bd65295043532318cad2d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff9cb36d8184c1a648004d79198ceb5b42e3322c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookBarn_DataLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookBarn_DataLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
