@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj": {}
+    "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj": {
+    "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj",
         "projectName": "BookBarn_DomainLayer",
-        "projectPath": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj",
-        "packagesPath": "C:\\Users\\Megha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Megha\\Documents\\Projects\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\obj\\",
+        "projectPath": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\BookBarn_DomainLayer.csproj",
+        "packagesPath": "C:\\Users\\Aman.Tomar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookBarn_BookCatalog\\BookBarn_DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Megha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aman.Tomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

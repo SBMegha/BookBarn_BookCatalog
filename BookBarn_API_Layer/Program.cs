@@ -1,9 +1,12 @@
 
+using System.Text;
 using BookBarn_API_Layer.Services;
 using BookBarn_DataLayer.DBContext;
 using BookBarn_DataLayer.Respositories;
 using BookBarn_DomainLayer.Respositories;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 namespace BookBarn_API_Layer
 {
@@ -15,7 +18,7 @@ namespace BookBarn_API_Layer
 
             // Add services to the container.
 
-            string conStr = builder.Configuration.GetConnectionString("DefaultConnection");
+            string conStr = builder.Configuration.GetConnectionString("Default");
 
             builder.Services.AddDbContext<BookCatalogDbContext>(options =>
             {
@@ -29,11 +32,28 @@ namespace BookBarn_API_Layer
             builder.Services.AddTransient<AuthorServices>();
             builder.Services.AddTransient<CategoryServices>();
 
-            builder.Services.AddCors(options =>
+            // Add Authentication
+            builder.Services.AddAuthentication(options =>
             {
-                options.AddPolicy("AllowAllOrigins",
-                    builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
-            }); 
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            })
+            .AddJwtBearer(options =>
+            {
+                options.RequireHttpsMetadata = false;
+                options.SaveToken = true;
+                options.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                    ValidAudience = builder.Configuration["Jwt:Audience"],
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"])),
+                    ClockSkew = TimeSpan.Zero
+                };
+            });
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -48,11 +68,19 @@ namespace BookBarn_API_Layer
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            app.UseCors("AllowAllOrigins");
+
+            // Add cors
+            app.UseCors(builder =>
+            {
+                builder.AllowAnyOrigin();
+                builder.AllowAnyHeader();
+                builder.AllowAnyMethod();
+            });
+
             app.UseHttpsRedirection();
 
+            app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.MapControllers();
 

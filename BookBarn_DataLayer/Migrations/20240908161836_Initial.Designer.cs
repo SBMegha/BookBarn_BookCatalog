@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookBarn_DataLayer.Migrations
 {
     [DbContext(typeof(BookCatalogDbContext))]
-    [Migration("20240908121206_v1.4DataSeeding")]
-    partial class v14DataSeeding
+    [Migration("20240908161836_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
