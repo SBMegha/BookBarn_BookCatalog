@@ -9,3 +9,4 @@ C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DomainLayer\obj\
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DomainLayer\obj\Debug\net8.0\refint\BookBarn_DomainLayer.dll
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DomainLayer\obj\Debug\net8.0\BookBarn_DomainLayer.pdb
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DomainLayer\obj\Debug\net8.0\ref\BookBarn_DomainLayer.dll
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DomainLayer\obj\Debug\net8.0\BookBarn_DomainLayer.sourcelink.json

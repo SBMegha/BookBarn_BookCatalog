@@ -227,7 +227,8 @@ namespace BookBarn_API_Layer.Services
                     Title = bookDTO.Title,
                     Description = bookDTO.Description,
                     Price = bookDTO.Price,
-                    Image = bookDTO.Image,
+                    //Image = bookDTO.Image,
+                    Image = Convert.FromBase64String(bookDTO.Image),
                     AverageRating = bookDTO.AverageRating,
                     AvailableBookCount = bookDTO.AvailableBookCount,
                     AuthorId = author.AuthorId,
@@ -301,7 +302,7 @@ namespace BookBarn_API_Layer.Services
                 existingBook.Title = bookDTO.Title;
                 existingBook.Description = bookDTO.Description;
                 existingBook.Price = bookDTO.Price;
-                existingBook.Image = bookDTO.Image;
+                existingBook.Image = Convert.FromBase64String(bookDTO.Image);
                 existingBook.AverageRating = bookDTO.AverageRating;
                 existingBook.AvailableBookCount = bookDTO.AvailableBookCount;
                 existingBook.AuthorId = author.AuthorId;
@@ -354,7 +355,7 @@ namespace BookBarn_API_Layer.Services
                 Title = book.Title,
                 Description = book.Description,
                 Price = book.Price,
-                Image = book.Image,
+                Image = Convert.ToBase64String(book.Image),
                 AverageRating = book.AverageRating,
                 AvailableBookCount = book.AvailableBookCount,
                 AuthorId = book.AuthorId,

@@ -140,7 +140,7 @@ namespace BookBarn_DataLayer.Respositories
             catch (Exception ex)
             {
                 // log.Error(ex.Message);
-                return new List<Category>();
+                throw;
             }
         }
 

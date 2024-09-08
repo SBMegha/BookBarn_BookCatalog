@@ -133,15 +133,22 @@ namespace BookBarn_DataLayer.Respositories
             }
             catch (Exception ex)
             {
-                // Optional: Log the exception
-                // log.Error(ex.Message);
-                return new List<Author>();
+                //log
+                throw;
             }
         }
 
-        public Task<Author> GetAuthorAsync(int id)
+        public async Task<Author> GetAuthorAsync(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await db.Authors.FindAsync(id);
+            }
+            catch (Exception ex)
+            {
+                // Log the exception
+                throw;
+            }
         }      
 
         public async Task<bool> UpdateAsync(Author author)

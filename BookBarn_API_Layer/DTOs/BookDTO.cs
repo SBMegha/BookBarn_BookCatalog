@@ -21,6 +21,8 @@ namespace BookBarn_API_Layer.DTOs
 
         [Required]
         public string Image { get; set; }
+       // public byte[] Image { get; set; }
+       
 
         [Required]
         [Range(0, 5, ErrorMessage = "Average rating must be between 0 and 5.")]

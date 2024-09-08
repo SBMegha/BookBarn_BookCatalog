@@ -15,3 +15,4 @@ C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\De
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.pdb
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.genruntimeconfig.cache
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\ref\BookBarn_DataLayer.dll
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_DataLayer\obj\Debug\net8.0\BookBarn_DataLayer.sourcelink.json

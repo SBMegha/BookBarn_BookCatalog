@@ -26,7 +26,8 @@ namespace BookBarn_DomainLayer.Entities
         public decimal Price { get; set; }
 
         [Required]
-        public string Image { get; set; }
+        public byte[] Image { get; set; }
+        //public string Image { get; set; }
 
         [Range(0, 5)]
         public double AverageRating { get; set; }

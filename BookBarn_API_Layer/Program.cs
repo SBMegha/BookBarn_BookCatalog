@@ -26,7 +26,14 @@ namespace BookBarn_API_Layer
             builder.Services.AddTransient<IAuthorRepository, AuthorRepository>();
             builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
             builder.Services.AddTransient<BookServices>();
+            builder.Services.AddTransient<AuthorServices>();
+            builder.Services.AddTransient<CategoryServices>();
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAllOrigins",
+                    builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            }); 
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -41,7 +48,7 @@ namespace BookBarn_API_Layer
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            app.UseCors("AllowAllOrigins");
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

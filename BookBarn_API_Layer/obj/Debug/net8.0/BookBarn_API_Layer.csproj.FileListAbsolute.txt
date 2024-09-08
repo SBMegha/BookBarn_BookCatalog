@@ -72,3 +72,4 @@ C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_API_Layer\obj\De
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_API_Layer\obj\Debug\net8.0\BookBarn_API_Layer.pdb
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_API_Layer\obj\Debug\net8.0\BookBarn_API_Layer.genruntimeconfig.cache
 C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_API_Layer\obj\Debug\net8.0\ref\BookBarn_API_Layer.dll
+C:\Users\Megha\Documents\Projects\BookBarn_BookCatalog\BookBarn_API_Layer\obj\Debug\net8.0\BookBarn_API_Layer.sourcelink.json
